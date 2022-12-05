@@ -1,0 +1,1 @@
+a chrome extension which helps you gather link data from your current page
