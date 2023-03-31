@@ -1,1 +1,3 @@
-a chrome extension which helps you gather link data from your current page
+Link Collector is a Google Chrome extension that allows users to easily gather link data from any web page. By clicking the extension icon in the browser's toolbar, users can collect all links on the current page and display them in a popup. The popup includes the title of each article, the URL, and any other relevant information.
+
+In addition to collecting links, Link Collector includes options to filter or sort the links, remove duplicates, or scrape additional data from the articles themselves. This functionality can save users a significant amount of time and effort in collecting and organizing information from the web.
